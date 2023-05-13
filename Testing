@@ -1,0 +1,5 @@
+A Solutions Architect is about to deploy an API on multiple EC2 instances in an Auto Scaling group behind an ELB. The support team has the following operational requirements:
+1 They get an alert when the requests  per second go over 50,000
+2 They get an alert when latency goes over 5 seconds
+3 They can validate how many times a day users call the API requesting highly-sensitive data
+Which combination of steps does the Architect need to take to satisfy these operational requirements? (Select two.)
